@@ -49,6 +49,9 @@ This project demonstrates:
 
 All images are saved in the `images/` folder.
 
+### 🔷 Project Overview  
+![Project Overview](data_science_titanic.png)
+
 ### 🔷 Confusion Matrix  
 ![Confusion Matrix](confusion_matrix.png)
 
