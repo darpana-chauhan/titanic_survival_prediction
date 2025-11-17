@@ -50,13 +50,13 @@ This project demonstrates:
 All images are saved in the `images/` folder.
 
 ### 🔷 Confusion Matrix  
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### 🔷 Feature Importance  
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### 🔷 Model Comparison  
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](model_comparison.png)
 
 ---
 
